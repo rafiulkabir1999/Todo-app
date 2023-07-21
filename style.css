@@ -110,10 +110,10 @@
   button{
     width:20%;
     padding:10px;
-    background-color: hsl(240, 67%, 49%);
+    background-color: hsl(114, 67%, 49%);
     border:none;
     color:white;cursor:pointer;
-    border:2px solid hsl(240, 67%, 49%)
+    border:2px solid hsl(124, 67%, 49%)
 
   }
   .Show{
